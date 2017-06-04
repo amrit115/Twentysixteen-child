@@ -74,6 +74,7 @@
 		</footer><!-- .site-footer -->
 	</div><!-- .site-inner -->
 </div><!-- .site -->
+<div> this is test</div>
 
 <?php wp_footer(); ?>
 </body>
